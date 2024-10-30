@@ -67,6 +67,6 @@ blockquote, q {
   padding: 5px;
 }
 
-blockquote, q, pre {
+blockquote, q, tt {
   overflow: auto;
 }
